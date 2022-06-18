@@ -1,0 +1,12 @@
+:root {
+    --bufs-gold: rgb(255, 203, 5);
+
+    --bufs-charcoalgray: rgb(85, 85, 85);
+    --bufs-charcoalgrey: rgb(85, 85, 85);
+
+    --bufs-midgray: rgb(150, 150, 150);
+    --bufs-midgrey: rgb(150, 150, 150);
+
+    --bufs-lightgray: rgb(204, 204, 204);
+    --bufs-lightgrey: rgb(204, 204, 204);
+}
